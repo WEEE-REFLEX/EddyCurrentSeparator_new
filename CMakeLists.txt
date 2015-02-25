@@ -11,7 +11,7 @@ CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 #--------------------------------------------------------------
 #         Modify the project name if you want: 
 
-PROJECT(CoronaElectrostaticSeparator)
+PROJECT(EddyCurrent_New)
 
 
 
